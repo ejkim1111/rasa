@@ -12,6 +12,7 @@
 - goodmorning
 - goodevening
 - good afternoon
+- hellooo
 
 ## intent:goodbye
 - cu
@@ -56,6 +57,7 @@
 - so so perfect
 - so good
 - so perfect
+- Good
 
 ## intent:mood_unhappy
 - my day was horrible
@@ -72,3 +74,6 @@
 - extremly sad
 - so saad
 - so sad
+
+## intent:hobby
+- What is your hobby?
